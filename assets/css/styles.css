@@ -205,6 +205,12 @@ p {
   margin-bottom: 0;
   font-weight: 500;
 }
+
+.main-wrapper .job-title-2 {
+  color: #3F4650;
+  margin-top: 0;
+  margin-bottom: 0;
+}
 .main-wrapper .time {
   position: absolute;
   right: 0;
